@@ -1,0 +1,19 @@
+{
+  "name": "express-api-jwt-auth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "express-auth": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Ebenezer Nikabou",
+  "license": "ISC",
+  "dependencies": {
+    "replace": "^1.2.1",
+    "yargs": "^17.2.1"
+  }
+}
