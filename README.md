@@ -9,7 +9,7 @@ sudo npm install -g express-api-jwt-auth
 ## Usage
 After install, you can type ```express-auth``` command in the console the view the help page.
 
-You can choose to generate a basic or full jwt auth code, by specifying the type as an argument for the command.
+In a directory with express already installed, you can choose to generate a basic or full jwt authentication code, specifying the type as an argument to the command.
 
 ### Example
 
