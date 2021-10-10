@@ -1,6 +1,6 @@
 {
   "name": "express-api-jwt-auth",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "",
   "main": "./bin/index.js",
   "scripts": {
@@ -9,7 +9,8 @@
   "bin": {
     "express-auth": "./bin/index.js"
   },
-  "keywords": [],
+  "keywords": ["express", "jwt", "auth", "authentication", "jsonwebtoken", "node", "nodejs", "passport", "identity"],
+  "repository" : "https://github.com/ebenezer10/express-api-jwt-auth.git",
   "author": "Ebenezer Nikabou",
   "license": "ISC",
   "dependencies": {
